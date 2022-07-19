@@ -7,12 +7,13 @@ from time import sleep
 key = "4bec1140-7843-414f-bc59-69afcb4f8b5b"
 nickname = "𝐀𝐗𝐋777𝐗"
 app_name = "mxn"
-url = "https://AXC01.darkhanma1.repl.co"
+url = ""
 password = "NERO777X"
 
 
 def gerar_aleatorio(size=16, chars=string.ascii_letters + string.digits):
     return ''.join(random.choice(chars) for _ in range(size))
+
 
 
 
