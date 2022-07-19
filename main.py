@@ -16,7 +16,7 @@ def gerar_aleatorio(size=16, chars=string.ascii_letters + string.digits):
 
 
 def deviceId():
-    return requests.get(http://forevercynical.com/generate/devic).text.upper()
+    return requests.get(https://cynical.gg/device).text.upper()
 
 
 def restart():
