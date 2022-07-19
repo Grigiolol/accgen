@@ -16,7 +16,7 @@ def gerar_aleatorio(size=16, chars=string.ascii_letters + string.digits):
 
 
 
-deviceId():    
+deviceId():
 	identifier = os.urandom(20)
 	x= ("42" + identifier.hex() + hmac.new(bytes.fromhex("02B258C63559D8804321C5D5065AF320358D366F"), b"\x42" + identifier, sha1).hexdigest()).upper()
 	devi = x
