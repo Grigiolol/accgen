@@ -15,8 +15,11 @@ def gerar_aleatorio(size=16, chars=string.ascii_letters + string.digits):
     return ''.join(random.choice(chars) for _ in range(size))
 
 
-def deviceId():
-    return requests.get("https://cynical.gg/device").text.upper()
+def gerar_device():    
+	identifier = os.urandom(20)
+	x= ("42" + identifier.hex() + hmac.new(bytes.fromhex("02B258C63559D8804321C5D5065AF320358D366F"), b"\x42" + identifier, sha1).hexdigest()).upper()
+	devi = x 
+
 
 
 def restart():
