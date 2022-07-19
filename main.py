@@ -6,7 +6,7 @@ from time import sleep
 
 key = "4bec1140-7843-414f-bc59-69afcb4f8b5b"
 nickname = "𝐀𝐗𝐋777𝐗"
-app_name = "xznv"
+app_name = "mxn"
 url = "https://AXC01.darkhanma1.repl.co"
 password = "NERO777X"
 
