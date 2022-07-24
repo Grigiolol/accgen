@@ -4,9 +4,9 @@ import requests, heroku3, secmail
 from bs4 import BeautifulSoup
 from time import sleep
 
-key = "4bec1140-7843-414f-bc59-69afcb4f8b5b"
-nickname = "𝐀𝐗𝐋777𝐗"
-app_name = "mxn"
+key = "674b4697-d735-4197-8e07-35b67a9985e7"
+nickname = "𝕯𝐑𝐀𝐆𝐎𝐍"
+app_name = "dragon666"
 url = "https://AXC01.darkhanma1.repl.co"
 password = "NERO777X"
 
