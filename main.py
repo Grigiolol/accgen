@@ -15,7 +15,7 @@ abertura = figlet_format("a c c g e n  X\n       p t - b r")
 print(abertura)
 
 key_api_heroku = "7d4a347f-f3f0-47b8-b1f0-7f365aa03f05"
-nome_aplicativo = "xmega"
+nome_aplicativo = "xmega2"
 
 
 # ===============Funções==================
