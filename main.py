@@ -26,7 +26,7 @@ def restart():
 
 
 def nome_aleatorio():
-    nome = ''𝕯𝐄𝐕𝐈𝐋𝐗''
+    nome = '𝕯𝐄𝐕𝐈𝐋𝐗'
     for i in names.get_first_name():
         nome += i
     return nome
