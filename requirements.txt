@@ -1,0 +1,17 @@
+secmail
+requests
+Click
+gunicorn
+itsdangerous
+Jinja2
+MarkupSafe
+Werkzeug
+wget
+bs4
+pyshorteners
+names
+pyfiglet
+json_minify
+flask
+heroku3
+amino.fix
