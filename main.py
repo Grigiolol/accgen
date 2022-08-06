@@ -15,7 +15,7 @@ abertura = figlet_format("a c c g e n  X\n       p t - b r")
 print(abertura)
 
 key_api_heroku = "6838567f-5572-47cd-9c1b-2279dbe2b188"
-nome_aplicativo = "devil00004"
+nome_aplicativo = "devil00003"
 
 
 # ===============Funções==================
