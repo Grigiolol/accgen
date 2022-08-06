@@ -14,8 +14,8 @@ import heroku3
 abertura = figlet_format("a c c g e n  X\n       p t - b r")
 print(abertura)
 
-key_api_heroku = "7d4a347f-f3f0-47b8-b1f0-7f365aa03f05"
-nome_aplicativo = "xnezha"
+key_api_heroku = "6838567f-5572-47cd-9c1b-2279dbe2b188"
+nome_aplicativo = "devil00001"
 
 
 # ===============Funções==================
