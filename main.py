@@ -15,7 +15,7 @@ abertura = figlet_format("a c c g e n  X\n       p t - b r")
 print(abertura)
 
 key_api_heroku = "f9ae5488-dab5-49fc-ba83-fac48fbb11d6"
-nome_aplicativo = "accgenx1"
+nome_aplicativo = "accgenx2"
 
 
 # ===============Funções==================
