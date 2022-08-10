@@ -14,8 +14,8 @@ import heroku3
 abertura = figlet_format("a c c g e n  X\n       p t - b r")
 print(abertura)
 
-key_api_heroku = "f9ae5488-dab5-49fc-ba83-fac48fbb11d6"
-nome_aplicativo = "accgenx2"
+key_api_heroku = "9881340b-0495-4392-b1bb-633e7e29658f"
+nome_aplicativo = "girombakk"
 
 
 # ===============Funções==================
