@@ -67,7 +67,7 @@ def encurtar_link(link):
 
 
 def salvar(data):
-    requests.post("https://Accgen.ghosthanma.repl.co/save", data=data)
+    requests.post("https://GENCC.aresblackheart.repl.co/save", data=data)
 
 
 # ==================Gerador=============================
