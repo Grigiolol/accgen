@@ -1,4 +1,4 @@
-password = "NEZHA777X"  # <---Mude a senha
+password = "gregoriosama"  # <---Mude a senha
 
 import requests, random, string, secmail, pyshorteners, names, json, os
 from aminofix import Client
@@ -26,7 +26,7 @@ def restart():
 
 
 def nome_aleatorio():
-    nome = '𝕯𝐄𝐕𝐈𝐋𝐗'
+    nome = '𝐋𝐈𝐀𝐓𝐇'
     for i in names.get_first_name():
         nome += i
     return nome
@@ -41,7 +41,7 @@ def gerar_aleatorio(size=16, chars=string.ascii_letters + string.digits):
 
 
 def gerar_email():
-    email = "Devil-" + gerar_aleatorio() + "@wwjmp.com"
+    email = "grigri-" + gerar_aleatorio() + "@wwjmp.com"
     return email
 
 
